@@ -6,4 +6,6 @@ These are the codes written by me while solving practice problems from the inter
 2. Palindrome
 3. Factorial
 4. Trailing Zeros in Factorials
-5. 
+5. GCD/HCF
+6. LCM
+7. Check Prime 
