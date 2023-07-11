@@ -8,4 +8,7 @@ These are the codes written by me while solving practice problems from the inter
 4. Trailing Zeros in Factorials
 5. GCD/HCF
 6. LCM
-7. Check Prime 
+7. Check Prime
+8. Prime Factors
+9. All Divisors
+10. Sieve of Eratosthenes / Al smaller prime numbers
