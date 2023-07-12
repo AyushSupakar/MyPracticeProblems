@@ -12,3 +12,5 @@ These are the codes written by me while solving practice problems from the inter
 8. Prime Factors
 9. All Divisors
 10. Sieve of Eratosthenes / Al smaller prime numbers
+11. Power by Recursion
+12. Power by iterative method
