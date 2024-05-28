@@ -1,7 +1,7 @@
 package P100_TopicWise;
 
-public class Mathematics {
+public class Recursion {
     public static void main(String[] args) {
-        System.out.println("Hi Maa");
+        System.out.println("Hi Maa 2");
     }
 }
